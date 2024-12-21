@@ -4,7 +4,9 @@ This repository contains the data and R scripts used in the analyses presented i
 
 **Alejandra Figueroa-Vargas A., Navarrete S., et al.**  
 **White Matter Volume and Microstructural Integrity Are Associated with Fatigue in Relapsing Multiple Sclerosis.**  
-Published in *Scientific Reports*.  
+Under Review in *Scientific Reports*. 
+Preprint available at: [https://www.researchsquare.com/article/rs-5419035/v1](https://www.researchsquare.com/article/rs-5419035/v1)  
+ 
 
 ## Repository Structure  
 
@@ -39,4 +41,4 @@ This folder contains the following data files:
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/neurocics/Figueroa-Vargas_Navarrete_2025_Scientific_Reports.git
